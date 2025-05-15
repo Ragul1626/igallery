@@ -25,7 +25,7 @@ Validate the HTML and CSS code.
 Publish the website in the given URL.
 
 ## PROGRAM :
-```
+## OUTPUT:
 gal.html
 
 <!DOCTYPE html>
@@ -184,8 +184,6 @@ header{
     right: 10%;
 }
 
-```
-## OUTPUT:
 ![alt text](imagegal1.png)
 
 ![alt text](imagegal2.png)
